@@ -2,7 +2,8 @@
 
 ## Installation
 
-    > git clone https://github.com/trevorlinan/express-less-boilerplate.git <Your App Name>
+    > Fork this repo
+    > git clone https://github.com/<Your URL>/express-less-boilerplate.git <Your App Name>
     > cd <Your App Name>
     > npm install
     
